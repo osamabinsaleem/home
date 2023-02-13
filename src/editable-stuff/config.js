@@ -13,23 +13,23 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/osamabinsaleem",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
-    },
+    // {
+    //   image: "fa-facebook",
+    //   url: "https://www.facebook.com/hashirshoaeb",
+    // },
+    // {
+    //   image: "fa-instagram",
+    //   url: "https://www.instagram.com/hashirshoaeb/",
+    // },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/osama-bin-saleem-83123411a/",
     },
     {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      image: "fa-stack-overflow",
+      url: "https://stackoverflow.com/users/8398636/osama-bin-saleem",
     },
   ],
 };
